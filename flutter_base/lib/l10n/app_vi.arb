@@ -1,0 +1,20 @@
+{
+    "@@locale": "vi",
+    "helloWorld": "Xin chào Thế Giới",
+    "email": "Email",
+    "password": "Mật khẩu",
+    "login": "Đăng nhập",
+    "aCompleteValidEmailExamplejoegmailcom": "Một email hợp lệ đầy đủ, ví dụ: joe@gmail.com",
+    "pleaseEnsureTheEmailEnteredIsValid": "Vui lòng đảm bảo email nhập vào là hợp lệ",
+    "passwordShouldbeatleast_characterswithatleastoneletterandnumber": "Mật khẩu phải có ít nhất 8 ký tự và bao gồm ít nhất một chữ cái và một chữ số",
+    "passwordRequirements": "Mật khẩu phải có ít nhất 8 ký tự và chứa ít nhất một chữ cái và một chữ số",
+    "submit": "Gửi",
+    "submitting": "Đang gửi...",
+    "splashScreen": "Màn hình chào",
+    "popularShows": "Chương trình phổ biến",
+    "noDataFound": "Không tìm thấy dữ liệu",
+    "noInternetConnection": "Không có kết nối Internet",
+    "logout": "Đăng xuất",
+    "hello": "Xin chào",
+    "author": "Lê Minh Chiến"
+}
